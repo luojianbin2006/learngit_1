@@ -1,7 +1,4 @@
 xcvz
-<<<<<<< HEAD
 add
-adfadf
-=======
-add
->>>>>>> dev
+
+
